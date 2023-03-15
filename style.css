@@ -221,11 +221,13 @@ h2{
   justify-content: space-around;
   background-color: #111;
   margin-top: 50px;
+  margin-bottom: 50px;
 }
 
 .githubTitle {
   font-size: 100px;
   color: #333;
+  margin-bottom: 30px;
 }
 
 .githubChart {
@@ -393,11 +395,12 @@ h2{
 /* -----------------contact form------------- */
 
 .contact_section{
-    margin-top: 40px;
+    margin: 40px 0px;
     display: flex;
     align-items: center;
     flex-direction: column;
     text-align: center;
+    
 }
 
 .contact_form{
@@ -478,6 +481,7 @@ button.submit{
   .githubTitle {
     text-align: center;
     font-size: 80px;
+    padding-top: 100px;
   }
   .githubSm {
     display: flex;
