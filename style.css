@@ -482,6 +482,7 @@ button.submit{
     text-align: center;
     font-size: 80px;
     padding-top: 100px;
+    margin-bottom: 20px;
   }
   .githubSm {
     display: flex;
